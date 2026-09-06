@@ -1,5 +1,7 @@
-   streamlit
-   librosa
-   soundfile
-   audioread
-   numpy
+streamlit
+librosa
+soundfile
+audioread
+numpy
+pydub
+imageio-ffmpeg
